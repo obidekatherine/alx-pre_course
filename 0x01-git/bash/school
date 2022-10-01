@@ -1,1 +1,7 @@
 "The school is open!"
+
+git pull origin master
+git checkout update_script
+git merge master
+resolve conflicts
+git push -u origin update_script
